@@ -34,18 +34,6 @@
     "mocha": "^6.2.2",
     "request": "^2.88.0",
     "sinon": "^7.5.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/B3zaleel/alx-backend"
-  },
-  "bugs": {
-    "url": "https://github.com/B3zaleel/alx-backend/issues"
-  },
-  "homepage": "https://github.com/B3zaleel/alx-backend/blob/main/0x03-queuing_system_in_js/README.md",
-  "engines": {
-    "node": "16.x",
-    "npm": "8.x",
-    "yarn": "1.x"
   }
+ 
 }
